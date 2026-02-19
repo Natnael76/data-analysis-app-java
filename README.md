@@ -2,6 +2,10 @@
 
 Console-based Java application that loads a CSV dataset (10,000+ records) and supports filtering, sorting, summary statistics, and report generation.
 
+## Preview
+
+![App Preview](screenshots/app-preview.png)
+
 ## Features
 - Load 10,000+ CSV records into Java objects (OOP)
 - Filter by Category or Region
