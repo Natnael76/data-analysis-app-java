@@ -1,0 +1,8 @@
+# Compiled output + generated files
+output/
+
+# Generated dataset (app can regenerate)
+data/sales_10000.csv
+
+# macOS
+.DS_Store
