@@ -1,0 +1,21 @@
+Sales Report (Java Data Analysis Application)
+===========================================
+
+Summary Stats
+- Records: 10000
+- Total Sales: 2843595.95
+- Avg Sales: 284.36
+- Min Sales: 10.01
+- Max Sales: 686.84
+
+Top 10 Rows by Sales
+1) ORD08447 | 2023-07-10 | West | Technology | 686.84
+2) ORD00706 | 2023-02-05 | West | Technology | 686.63
+3) ORD03117 | 2023-08-09 | West | Technology | 686.43
+4) ORD08912 | 2023-11-13 | West | Technology | 686.37
+5) ORD05378 | 2022-06-14 | West | Technology | 686.18
+6) ORD03092 | 2022-01-31 | West | Technology | 686.10
+7) ORD05890 | 2023-07-20 | West | Technology | 686.03
+8) ORD03616 | 2023-08-22 | West | Technology | 685.66
+9) ORD08331 | 2023-10-23 | West | Technology | 685.50
+10) ORD05569 | 2023-11-05 | West | Technology | 684.85
